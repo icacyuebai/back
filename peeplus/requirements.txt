@@ -1,0 +1,13 @@
+Flask==1.1.2
+Flask-Script==2.0.6
+Flask-SocketIO==5.3.3
+Flask-SQLAlchemy==2.5.1
+Flask-DebugToolbar==0.13.1
+flask-sqlacodegen==1.1.8
+numpy==1.20.2
+Flask-Cors==3.0.10
+PyJWT==2.6.0
+PyMySQL==1.0.2
+Flask-WTF==0.14.3
+mysqlclient==2.1.1
+SQLAlchemy==1.4.6
